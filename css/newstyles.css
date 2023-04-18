@@ -1,0 +1,44 @@
+ul{
+    font-size: 20px; 
+}
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+} 
+
+
+body{
+    background-color: rgb(223, 243, 210);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 5px solid black;
+    margin: 25px;
+    padding: 30px;
+    text-align:center
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.importantText{
+    font-weight:bold;
+    font-size: 20px;
+}
+
+.normalText{
+    font-weight:350;
+    font-size: 15px;
+}
+
+.biggestText{
+    font-size:35px
+}
